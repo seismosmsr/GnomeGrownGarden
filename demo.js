@@ -1,5 +1,3 @@
-<div id="text"></div>
- 
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
+$().ready(function() {
+   $("#text").html("Text added by jQuery code. (Outside index.md)");
+});
