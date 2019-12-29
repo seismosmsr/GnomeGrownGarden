@@ -38,15 +38,8 @@ function fancyAlert(arg) {
 }
 ```
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/demo.js"></script>
- 
-<div id="text"></div>
-
-<div id="text2"></div>
- 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+document.getElementById("text").innerHTML = "From inside this page, text added by JavaScript code";
 </script>
 
 ### Jekyll Themes
