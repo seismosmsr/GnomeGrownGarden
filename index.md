@@ -38,6 +38,11 @@ function fancyAlert(arg) {
 }
 ```
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/demo.js"></script>
+ 
+<div id="text"></div>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seismosmsr/GnomeGrownGarden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
