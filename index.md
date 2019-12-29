@@ -43,6 +43,12 @@ function fancyAlert(arg) {
  
 <div id="text"></div>
 
+<div id="text2"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seismosmsr/GnomeGrownGarden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
