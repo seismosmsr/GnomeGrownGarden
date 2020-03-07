@@ -47,6 +47,7 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code (insi
 ```
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/demo.js"></script>
+<div id="text"></div>
  ```
  Should be text here
  ```
