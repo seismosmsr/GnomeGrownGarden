@@ -1,3 +1,3 @@
 $().ready(function() {
-   $("#text").html("Text added by jQuery code. (Outside index.md)");
+   $("#text").html("Text added by jQuery code. This is a test. (Outside index.md)");
 });
