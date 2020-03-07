@@ -1,3 +1,6 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/demo.js"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/seismosmsr/GnomeGrownGarden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -45,20 +48,11 @@ function fancyAlert(arg) {
 document.getElementById("text").innerHTML = "Text added by JavaScript code (inside index.md)";
 </script>
 ```
-```
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-```
-<script src="/demo.js"></script>
-<div id="text"></div>
+
  ```
  Should be text here
  ```
- 
-```
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-```
-<script src="/demo.js"></script>
-<div id="text"></div>
+
 
 ### Jekyll Themes
 
