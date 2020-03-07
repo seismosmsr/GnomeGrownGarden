@@ -53,7 +53,9 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code (insi
  Should be text here
 ```
 
-<div id="text"></div>
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code (inside index.md)";
+</script>
 
 ### Jekyll Themes
 
