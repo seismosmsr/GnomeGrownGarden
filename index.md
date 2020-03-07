@@ -49,10 +49,11 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code (insi
 </script>
 ```
 
- ```
+```
  Should be text here
- ```
+```
 
+<div id="text"></div>
 
 ### Jekyll Themes
 
