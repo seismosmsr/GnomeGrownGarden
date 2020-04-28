@@ -61,6 +61,17 @@ document.getElementById("text").innerHTML = "This text doesn't get included.";
 </script>
 
 <div id='map'></div>
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
 
 ### Jekyll Themes
 
