@@ -1,8 +1,11 @@
-<script src="/demo.js"></script>
+<script src="/mapbox.js"></script>
+
 
 <script>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
 </script>
+
+
 
 ### Jekyll Themes
 
