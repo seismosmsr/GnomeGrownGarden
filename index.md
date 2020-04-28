@@ -1,45 +1,9 @@
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
-<script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
-<script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
-<script src="/demo.js"></script>
-<script src="/MapBox.js"></script>
-## Welcome to GitHub Pages
+<script1 src="/demo.js"></script1>
+<script2 src="/MapBox.js"></script1>
 
-You can use the [editor on GitHub](https://github.com/seismosmsr/GnomeGrownGarden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Testing Javascript
-
-
-<script>
+<script1>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
-</script>
+</script1>
 
 <script>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
