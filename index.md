@@ -1,4 +1,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
 <script src="/demo.js"></script>
 
 ## Welcome to GitHub Pages
@@ -56,6 +59,8 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code (insi
 <script>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
 </script>
+
+<div id='map'></div>
 
 ### Jekyll Themes
 
