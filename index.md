@@ -60,7 +60,7 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code (insi
 document.getElementById("text").innerHTML = "This text doesn't get included.";
 </script>
 
-<div id='map'></div>
+<div id='map'>
 body {
   margin: 0;
   padding: 0;
@@ -71,7 +71,8 @@ body {
   top: 0;
   bottom: 0;
   width: 100%;
-}
+}</div>
+
 
 ### Jekyll Themes
 
