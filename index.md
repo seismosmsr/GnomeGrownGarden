@@ -3,7 +3,7 @@
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
 <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
 <script src="/demo.js"></script>
-
+<script src="/MapBox.js"></script>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/seismosmsr/GnomeGrownGarden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,30 +36,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Testing Javascript
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-```javascript
-<div id="text"></div>
- 
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code (inside index.md)";
-</script>
-```
-
-```
- Should be text here
-```
 
 <script>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
 </script>
 
+<script>
+document.getElementById("text").innerHTML = "This text doesn't get included.";
+</script>
 
 ### Jekyll Themes
 
