@@ -1,9 +1,4 @@
-<script1 src="/demo.js"></script1>
-<script2 src="/MapBox.js"></script1>
-
-<script1>
-document.getElementById("text").innerHTML = "This text doesn't get included.";
-</script1>
+<script src="/demo.js"></script>
 
 <script>
 document.getElementById("text").innerHTML = "This text doesn't get included.";
